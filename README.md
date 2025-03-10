@@ -17,4 +17,4 @@ Vedi altri miei progetti relativi a AI:
 - [AI](https://Baddy2002.github.io/AI) - Progetti AI.
 
 Vedi altri miei progetti relativi a sviluppo FullStack:
-- [AI](https://Baddy2002.github.io/AI) - Progetti FullStack.
+- [AI](https://Baddy2002.github.io/FullStack) - Progetti FullStack.
